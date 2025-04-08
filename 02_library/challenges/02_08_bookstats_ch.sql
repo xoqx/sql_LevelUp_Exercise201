@@ -48,3 +48,6 @@ ORDER BY
 
 SELECT * FROM Loans WHERE BookID = 112;
 SELECT * FROM Books WHERE Title ='The War of the Worlds';
+
+-- contribute from xoqx
+-- April 8th 
